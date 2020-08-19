@@ -21,18 +21,18 @@
 
 					<!-- Logo -->
 						<div id="logo">
-							<span class="image avatar48"><img src="images/sid.png" alt="" /></span>
-							<h1 id="title">Siddhant Deshmukh</h1>
-							<p>Astrophysics PhD Candidate</p>
+							<span class="image avatar48"><img src="images/sid.png" style="border-radius: 100%; box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.7);"/></span>
+							<h1 id="title" style="opacity: 0.9;">Siddhant Deshmukh</h1>
+							<p style="font-weight: 500;">Astrophysics PhD Candidate</p>
 						</div>
 
 					<!-- Nav -->
 						<nav id="nav">
 							<ul>
-								<li><a href="#top" id="top-link"><span class="icon solid fa-home">Intro</span></a></li>
-								<li><a href="#portfolio" id="portfolio-link"><span class="icon solid fa-terminal">Research</span></a></li>
-								<li><a href="#personal" id="portfolio-link"><span class="icon solid fa-laptop">Personal Projects</span></a></li>
+								<li><a href="#top" id="top-link"><span class="icon solid fa-home">Home</span></a></li>
 								<li><a href="#about" id="about-link"><span class="icon solid fa-user">About Me</span></a></li>
+								<li><a href="#portfolio" id="portfolio-link"><span class="icon solid fa-terminal">Research</span></a></li>
+								<li><a href="#personal" id="portfolio-link"><span class="icon solid fa-coffee">Personal Projects</span></a></li>
 								<li><a href="#contact" id="contact-link"><span class="icon solid fa-envelope">Contact</span></a></li>
 							</ul>
 						</nav>
@@ -60,7 +60,7 @@
 
 				<!-- Intro -->
 					<section id="top" class="one dark cover">
-						<div class="container">
+						<div class="container overlay">
 
 							<header>
 								<h2 class="alt">
@@ -71,16 +71,54 @@
 									<br>
 									and investigate non-equilibrium chemical processes in stellar atmospheres.
 									<br>
-									My main research interests are <strong>computational astrophysics</strong>, <strong>data science</strong> and <strong>machine learning.</strong>
+									My main research interests are <strong>computational astrophysics</strong>, <strong>data science</strong> and <strong>machine learning</strong>.
 								</p>
 							</header>
 
 							<footer>
-								<a href="#portfolio" class="button scrolly">Check out my work</a>
+								<a href="#portfolio" class="button scrolly">My research</a>
+								<a href="#portfolio" class="button scrolly">Personal projects</a>
 							</footer>
 
 						</div>
 					</section>
+
+					<!-- About Me -->
+						<section id="about" class="four">
+							<div class="container">
+	
+								<header>
+									<h2>About Me</h2>
+								</header>
+	
+								<a href="#" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
+	
+								<div>
+									<p>
+										Currently, I am an astrophysics PhD student part of the International Max Planck Research School programme in Heidelberg 
+										(<a href="https://www.imprs-hd.mpg.de/">IMPRS-HD</a>). 
+										I'm interested in <strong>machine learning</strong> methods for <strong>data analysis</strong>, and currently apply them in 
+										<strong>astrophysical</strong> contexts.
+									</p>
+								</div>
+								<div>
+									<p>
+										I did an integrated Master's degree at the <a href="https://www.exeter.ac.uk">University of Exeter</a> in Exeter, UK. For my research, I worked in the 
+										<a href="">AWESoMeStars</a> group headed by Prof. Sean Matt. My master's dissertation was on 
+										"Using Open Magnetic Flux to Refine Stellar Rotational Evolutional Tracks". I also did a summer project in the same group, investigating the 
+										<a href="http://dx.doi.org/10.3847/1538-4357/ab3729">loss of angular momentum from the Sun by studying the solar wind</a>.
+									</p>
+								</div>
+								<div>
+									<p>
+										I have a few artistic hobbies, such as <strong>music</strong> (I sing and play a few instruments), <strong>crocheting</strong> and 
+										<strong>3D art</strong> (mainly with Blender). I really enjoy learning new things and try to incorporate new hobbies into my life every year.
+										<strong>Programming</strong> is one of my primary hobbies as well as being a cornerstone in my work, and currently I use <strong>Python</strong>
+										and <strong>JavaScript</strong>, but I have previously used <strong>C</strong> and <strong>IDL</strong> as well.
+									</p>
+								</div>
+							</div>
+						</section>
 
 				<!-- Portfolio -->
 				<section id="portfolio" class="two">
@@ -106,51 +144,42 @@
 								The Astrophysical Journal, Volume 883, Number 1
 							</li>
 						</ul>
-
-						<div class="row">
-							<div class="col-4 col-12-mobile">
-								<article class="item">
-									<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
-									<header>
-										<h3>Ipsum Feugiat</h3>
-									</header>
-								</article>
-								<article class="item">
-									<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
-									<header>
-										<h3>Rhoncus Semper</h3>
-									</header>
-								</article>
+						
+						<section class="spotlight odd">
+							<div class="row">
+								<div class="col-6 col-12-mobile">
+									<h3>Photospheric Solar Silicon Abundance</h3>
+									<p>
+										The amount of silicon in the solar photosphere is an important astrophysical quantity for connecting meteoritic abundances, solar neutrino fluxes and 
+										solar sound speed profiles. Determining an abundance depends on the choice of model atmosphere, spectral synthesis code and the spectral lines used.
+										Some model atmospheres include very turbulent flow, leading to lines synthesised broader than observations, but including magnetic field effects can
+										reverse this offset, as magnetic fields constrain the velocity fields to reduce turbulence.
+										
+										As the silicon abundance is the quantity used to link meteoritic abundances to photospheric abundances, differences in silicon lead to differences in
+										meteoritic composition, which are used as proxies for the early solar system.
+									</p>
+								</div>
 							</div>
-							<div class="col-4 col-12-mobile">
-								<article class="item">
-									<a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
-									<header>
-										<h3>Magna Nullam</h3>
-									</header>
-								</article>
-								<article class="item">
-									<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
-									<header>
-										<h3>Natoque Vitae</h3>
-									</header>
-								</article>
+						</section>
+						
+						<section class="spotlight even">
+							<div class="row">
+								<div class="col-6 col-12-mobile">
+									
+								</div>
+								<div class="col-6 col-12-mobile">
+									<h3>Solar Angular Momentum Loss</h3>
+								</div>
 							</div>
-							<div class="col-4 col-12-mobile">
-								<article class="item">
-									<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
-									<header>
-										<h3>Dolor Penatibus</h3>
-									</header>
-								</article>
-								<article class="item">
-									<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
-									<header>
-										<h3>Orci Convallis</h3>
-									</header>
-								</article>
+						</section>
+						
+						<section class="spotlight odd">
+							<div class="row">
+								<div class="col-6 col-12-mobile">
+									<h3>Open Magnetic Flux and Stellar Spindown</h3>
+								</div>
 							</div>
-						</div>
+						</section>
 
 					</div>
 				</section>
@@ -169,45 +198,44 @@
 						fusce hendrerit lacus ridiculus.</p>
 
 						<div class="row">
-							<div class="col-4 col-12-mobile">
+							<div class="col-6 col-12-mobile">
 								<article class="item">
 									<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
 									<header>
-										<h3>Ipsum Feugiat</h3>
+										<h3><u>Writing</u></h3>
+										<p>
+											A few friends and I engage in weekly recreational writing.
+										</p>
 									</header>
 								</article>
 								<article class="item">
 									<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
 									<header>
-										<h3>Rhoncus Semper</h3>
+										<h3><u>Worldbuilding</u></h3>
+										<p>
+											I run 2 Dungeons and Dragons campaigns and do a lot of worldbuilding associated with them on <a href="">World Anvil</a>. 
+											Feel free to use my material!
+										</p>
 									</header>
 								</article>
 							</div>
-							<div class="col-4 col-12-mobile">
+							<div class="col-6 col-12-mobile">
 								<article class="item">
-									<a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
+									<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
 									<header>
-										<h3>Magna Nullam</h3>
+										<h3><u>3D Art</u></h3>
+										<p>
+											I use <a href="https://www.blender.org">Blender</a> to make 3D art and animations. 
+										</p>
 									</header>
 								</article>
 								<article class="item">
-									<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
+									<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
 									<header>
-										<h3>Natoque Vitae</h3>
-									</header>
-								</article>
-							</div>
-							<div class="col-4 col-12-mobile">
-								<article class="item">
-									<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
-									<header>
-										<h3>Dolor Penatibus</h3>
-									</header>
-								</article>
-								<article class="item">
-									<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
-									<header>
-										<h3>Orci Convallis</h3>
+										<h3><u>Music</u></h3>
+										<p>
+											I sing and play acoustic guitar, bass and tabla. Most of my stuff is on my <a href="https://www.instagram.com/astro_siddhant/">Instagram</a>.
+										</p>
 									</header>
 								</article>
 							</div>
@@ -215,25 +243,6 @@
 
 					</div>
 				</section>
-
-				<!-- About Me -->
-					<section id="about" class="four">
-						<div class="container">
-
-							<header>
-								<h2>About Me</h2>
-							</header>
-
-							<a href="#" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
-
-							<p>
-								I am an astrophysics PhD student part of the International Max Planck Research School programme in Heidelberg 
-								(<a href="https://www.imprs-hd.mpg.de/">IMPRS-HD</a>). 
-								I'm interested in <strong>machine learning</strong> methods for data analysis, and currently apply them in <strong>astrophysical</strong> contexts.
-							</p>
-
-						</div>
-					</section>
 
 				<!-- Contact -->
 					<section id="contact" class="five">

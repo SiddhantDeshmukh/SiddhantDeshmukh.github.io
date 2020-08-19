@@ -1,6 +1,34 @@
-
-  /* HTML options
-  ----------------------------------------------------------------------*/
+/* HTML options
+----------------------------------------------------------------------*/
 #portfolio ul li {
   text-align: left;
+}
+
+/* Section options
+----------------------------------------------------------------------*/
+section .spotlight {
+  text-align: left;
+}
+
+section .spotlight.odd {
+  background-color: rgb(190, 190, 190);
+  /* color: #ffffff; */
+}
+
+section .spotlight.even {
+  background-color: rgb(226, 226, 226);
+  /* color: #000000; */
+}
+
+/* Custom div options
+----------------------------------------------------------------------*/
+div .overlay {
+  background-color: black;
+  opacity: 0.9;
+  padding: 2em;
+  border-radius: 25px;
+}
+
+div.overlay header, footer {
+  opacity: 1;
 }
