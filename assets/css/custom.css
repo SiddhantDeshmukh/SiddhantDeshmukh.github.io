@@ -11,12 +11,16 @@ section .spotlight {
 }
 
 section .spotlight.odd {
-  background-color: rgb(190, 190, 190);
+  background-color: rgb(225, 225, 225);
+  padding: 2em;
+  margin: 0px;
   /* color: #ffffff; */
 }
 
 section .spotlight.even {
-  background-color: rgb(226, 226, 226);
+  background-color: rgb(240, 240, 240);
+  padding: 2em;
+  margin: 0px;
   /* color: #000000; */
 }
 
