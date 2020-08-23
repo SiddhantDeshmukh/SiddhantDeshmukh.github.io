@@ -175,7 +175,8 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #E27689;
+			/* color: #E27689; */
+			color: #d646f3;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -2169,7 +2170,9 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						/* color: #e27689; */
+						color: #d646f3;
+						opacity: 0.9;
 					}
 
 /* Footer */
