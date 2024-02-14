@@ -4,7 +4,7 @@ tags:
     - tabletop
     - fatecraft
 ---
-Fatecraft is a d7-based Diplomacy-inspired game. It was developed as a long-term play-by-mail game in order to flesh out certain regions in the world. Originally, it was used to develop the continent of Mercataera to seed the campaign taking place in the Silversheen Sea at the start of the Age of Struggle. Check out the setup [here](/content/Fatecraft%20S1/geopolitics.md); a record of the turns is present in the directory with the tag #fatecraft-s1.
+Fatecraft is a d6-based Diplomacy-inspired game. It was developed as a long-term play-by-mail game in order to flesh out certain regions in the world. Originally, it was used to develop the continent of Mercataera to seed the campaign taking place in the Silversheen Sea at the start of the Age of Struggle. Check out the setup [here](Fatecraft%20S1/geopolitics.md); a record of the turns is present in the directory with the tag #fatecraft-s1.
 
 ## Gameplay
 
@@ -40,7 +40,28 @@ There are two kinds of resources available to a nation: **Renown** and **Fate**.
 |      +5       |      8      |
 |      +6       |     10      |
 
-In contrast to resources, indicators are scores that represent a particular property of a nation. Indicators affect the probabilities of random events and indicate to other nations how well things are going. The two indicators are **Happiness** and **Prosperity**. Happiness determines whether your people approve of your, while Prosperity represents wealth. If these values drop, your people will begin to lose faith in you as a leader, and may rebel!
+In contrast to resources, indicators are scores that represent a particular property of a nation. Indicators affect the probabilities of random events and indicate to other nations how well things are going. The two indicators are **Prosperity** and **Happiness**. Prosperity represents the overall wealth and splendour of your nation  while Happiness determines whether your people approve of your rule. Both values range from -3 to +3. Prosperity feeds into Renown and Happiness feeds into Fate. When positive, your nation is doing well and you are more likely to have positive random encounters. When negative, your people will begin to lose faith in you as a leader, and may rebel!
+
+| Prosperity | Renown Gained |     | Happiness | Fate Gained |
+| ---------- | ------------- | --- | --------- | ----------- |
+| -3         | -15           |     | -3        | -3          |
+| -2         | -10           |     | -2        | -2          |
+| -1         | -5            |     | -1        | -1          |
+| 0          | 0             |     | 0         | 0           |
+| 1          | 5             |     | 1         | 1           |
+| 2          | 10            |     | 2         | 2           |
+| 3          | 15            |     | 3         | 3           |
+
+### Resources Gained Per Turn
+
+Every turn, you gain Renown and Fate based on the number of settlements you own, your current Happiness and Prosperity, and resolved events. The table below shows the amount of Renown and Fate gained by settlement type.
+
+| Settlement Type | Renown Gained | Fate Gained |
+| ---- | ---- | ---- |
+| Capital | 20 | 5 |
+| City / Large Town | 10 | 3 |
+| Town | 5 | 1 |
+| Village | 2 | 0 |
 
 ### Units
 
@@ -129,6 +150,12 @@ Defensive battlements are important and provide fixed bonuses to the defending u
 Structures outside of settlements are generally used to connect other worldly resources to a nation. These are not tracked within the game system, and instead are handled through events and indicators. The merchant's guild might complain that pirates have ruined their silver trade, and wish for an alternative; the player may then choose to build mines in the mountains where there is known to be silver to appease them. Failure to do so would negatively impact the nation's happiness and prosperity, giving the player a motive to find a solution.
 
 Certain resources may be made available only by constructing specific structures. For example, unearthing an ancient tomb requires a player to build a dig site at the location -- and then likely defend it if other nations see anything valuable coming out! There may also be timed events that require players to act quickly in order to send units and construct something. Generally, constructing an external structure requires an appropriate diplomatic unit to spend an action at the location to do so, and it is completed in a single turn unless the structure is particularly large.
+
+### Building, Upgrading, and Capturing Settlements
+
+By default, building a new settlement requires moving a suitable diplomatic unit to a location and spending 100 Renown points. The settlement is built the next turn, but be warned, it does not come with defences! Players are advised to move military units alongside diplomatic ones to keep new settlements safe. Each settlement under your nation's control further taxes your Prosperity and Happiness. New Villages draw -1 of each, Towns -2, Cities -3, and Capitals -5. You also gain the structures belonging to those settlements (unless they have been destroyed).  Be wary of expanding your nation when your Prosperity or Happiness are low, you may lose control of that new settlement sooner than you think! Capturing a settlement generally provides the full tax as if no structures were present -- but there may be ways around this if you are clever...
+
+A settlement starts off as a Village and can be upgraded to a Town by spending 50 Renown. A Town can be upgraded to a City by spending 100 Renown. Each nation only has 1 Capital, and no more can be built. Claiming another nation's Capital is therefore a huge boon -- if you can keep control of it!
 
 ### Leader Goals and Bonuses
 
