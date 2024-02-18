@@ -1,8 +1,10 @@
 ---
 title: Geopolitics of Mercataera and West Valia
 tags:
-    - tabletop
-    - fatecraft
+  - tabletop
+  - fatecraft
+  - "#fatecraft-s1"
+  - creative-writing
 ---
 This page contains information on the various powers within Mercataera and West Valia for Fatecraft. There are a total of 21 major powers in the region, from wily mercantile duchies and slaver ports to theocratic societies and magic-hoarding kingdoms. All sorts of savoury and unsavoury characters exist here. In the spirit of Fatecraft, the major powers are all themed and have certain objectives, but the leaders themselves are for the players to create.
 

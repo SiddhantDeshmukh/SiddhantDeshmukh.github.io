@@ -26,9 +26,9 @@ There are two kinds of resources available to a nation: **Renown** and **Fate**.
 
 | Action | Renown | Turns |
 | ---- | ---- | ---- |
-| Building a unit | 5+ | 1 |
-| Constructing a defensive battlement | 10+ | 1 |
-| Building a new settlement | 100 | 1+ |
+| Building an infantry unit | 5 | 1 |
+| Constructing a basic defensive battlement | 10 | 1 |
+| Building a new settlement | 100 | 1 |
 | Constructing a strong unit-buffing structure | 60 | 2 |
 
 | Roll Modifier | Fate Points |
@@ -113,7 +113,7 @@ Units cost Renown to build. Infantry units are the cheapest, followed by cavalry
 
 #### Taking Settlements
 
-In order to capture an enemy settlement, it must first be attacked by one of your units as if you were attacking an enemy military unit. This causes that unit to besiege the settlement, and locks it in place. During a siege, special actions can be taken to neuter the enemy settlement's defences, such as destroying battlements or poisoning the water supply to bloody the garrison. These actions can only be taken by sieging units, and result in a d6 roll against a set number to beat (Fate points can of course be used). For destroying battlements, the number is usually the bonus modifier it provides. For each 3 point deficit the set number is beat by, the sieging unit can choose another equivalent or lesser action to take. For example, destroying a +1 defensive battlement (requires a 2 or more) by rolling a 4 means the battlement is destroyed; rolling a 5-7 means another +1 battlement can be destroyed, and so on. The GM should adjudicate what is fair in these circumstances.
+In order to capture an enemy settlement, it must first be attacked by one of your units as if you were attacking an enemy military unit. This causes that unit to besiege the settlement, and locks it in place. During a siege, special actions can be taken to neuter the enemy settlement's defences, such as destroying battlements or poisoning the water supply to bloody the garrison. These actions can only be taken by sieging units, and result in a d6 roll against a set number to beat (Fate points can of course be used). For destroying battlements, the number is usually the bonus modifier it provides. For each 3 point deficit the set number is beat by, the sieging unit can choose another equivalent or lesser action to take. For example, destroying a +1 defensive battlement (requires a 2 or more) by rolling a 4 means the battlement is destroyed; rolling a 5-6 means another +1 battlement can be destroyed, and so on. The GM should adjudicate what is fair in these circumstances.
 
 The defending units in a settlement can also take actions to hinder sieging units. These are also rolls against set numbers to beat (usually 4 for healthy units and 2 for bloodied units). Up to 3 units can defend a settlement at the same time.
 
