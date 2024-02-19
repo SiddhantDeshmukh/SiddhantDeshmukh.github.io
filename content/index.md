@@ -52,7 +52,7 @@ I enjoy writing different kinds of computational simulations for fun & understan
 
 I'm a huge fan of creative writing, having run multiple tabletop roleplaying game (TTRPG) campaigns and developing my own systems. The newest one I'm developing is called [[fatecraft|Fatecraft]]. [[turns|Season 1]] is currently ongoing! There should be new updates every week. An older TTRPG system I wrote is [[shroud|Shroud]]. There's enough info there to pick up and play a game if you'd like, including a starter adventure and some characters.
 
-I also write short stories, if you're interested you can start with [[discovery||this one]].
+I also write short stories, if you're interested you can start with [[discovery|this one]].
 
 ## 3D Art
 
