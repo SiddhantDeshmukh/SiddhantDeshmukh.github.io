@@ -10,6 +10,7 @@ Particle life is a form of emergent complexity similar to [Conway's Game of Life
 
 ## This version
 
+This is my take on it written in Rust using macroquad and egui.
 You can [[particle-life.html|view the HTML file]], get the compiled WASM binary [[particle-life.wasm|get the compiled WASM binary]], and
 [check out the repository](https://github.com/SiddhantDeshmukh/particle_life).
 

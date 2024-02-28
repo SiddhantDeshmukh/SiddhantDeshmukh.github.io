@@ -9,11 +9,12 @@ tags:
   - fatecraft
   - chemistry
 ---
+
 ## About Me
 
 ![[sid.png|200]]
 
-I am a trained scientist with a PhD in Astrophysics specializing in computational methods. My main interests are **computational modelling**, **data science** and **machine learning**.  I am currently looking to join a motivated team with a passion for data science, preferably in **climate-tech**, **aerospace** or the **energy** sector.
+I am a trained scientist with a PhD in Astrophysics specializing in computational methods. My main interests are **computational modelling**, **data science** and **machine learning**. I am currently looking to join a motivated team with a passion for data science, preferably in **climate-tech**, **aerospace** or the **energy** sector.
 
 I have a few artistic hobbies, such as music (I sing and play a few instruments), and 3D art (mainly with Blender). Programming is one of my primary hobbies as well as being a cornerstone in my work. Currently I use Python and a bit of Rust, but I have previously used JavaScript, C, Julia and IDL as well.
 
@@ -32,15 +33,14 @@ I did an integrated Master's degree at the University of Exeter in Exeter, UK. F
 An exhaustive list of my research and employment can be found through my [ORCID](https://orcid.org/0000-0002-3566-8647)
 
 - **Siddhant A. Deshmukh** and Hans-Guenter Ludwig (July 2023).
-  [*Implications of Time-Dependent Chemistry in Metal-Poor Dwarf Stars*](http://dx.doi.org/10.1051/0004-6361/202345985)
+  [_Implications of Time-Dependent Chemistry in Metal-Poor Dwarf Stars_](http://dx.doi.org/10.1051/0004-6361/202345985)
   Astronomy & Astrophysics Volume 675, A146.
 
 - **Siddhant A. Deshmukh**, Hans-Guenter Ludwig, Arunas Kučinskas, Matthias Steffen, Paul S. Barklem, Elisabetta Caffau, Vidas Dobrovolskas, and Piercarlo Bonifacio (Dec. 2022).
-  [*The Solar Photospheric Silicon Abundance According to CO5BOLD - Investigating Line Broadening, Magnetic Fields, and Model Effects*](http://dx.doi.org/10.1051/0004-6361/202142072)
+  [_The Solar Photospheric Silicon Abundance According to CO5BOLD - Investigating Line Broadening, Magnetic Fields, and Model Effects_](http://dx.doi.org/10.1051/0004-6361/202142072)
   Astronomy & Astrophysics Volume 668, A48.
-  
 - Adam J. Finley, **Siddhant A. Deshmukh**, Sean P. Matt, Mathew Owens, and Chi-Ju Wu. (2019)
-  [*Solar Angular Momentum Loss over the Past Several Millennia*](http://dx.doi.org/10.3847/1538-4357/ab3729)
+  [_Solar Angular Momentum Loss over the Past Several Millennia_](http://dx.doi.org/10.3847/1538-4357/ab3729)
   The Astrophysical Journal, Volume 883, Number 1.
 
 ## Coding Projects
@@ -48,6 +48,8 @@ An exhaustive list of my research and employment can be found through my [ORCID]
 I enjoy writing different kinds of computational simulations for fun & understanding. Here's a list of the ones I've got so far:
 
 - [[particle_life|Particle Life]]
+- [[boids_desc|Boids]]
+
 ## Creative Writing
 
 I'm a huge fan of creative writing, having run multiple tabletop roleplaying game (TTRPG) campaigns and developing my own systems. The newest one I'm developing is called [[fatecraft|Fatecraft]]. [[turns|Season 1]] is currently ongoing! There should be new updates every week. An older TTRPG system I wrote is [[shroud|Shroud]]. There's enough info there to pick up and play a game if you'd like, including a starter adventure and some characters.
