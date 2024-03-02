@@ -20,7 +20,7 @@ I have a few artistic hobbies, such as music (I sing and play a few instruments)
 
 If you're interested in getting in touch, you can [send me an email](mailto:sadeshmukh.business@gmail.com) or find me on [Twitter](https://twitter.com/astro_siddhant), [GitHub](https://github.com/SiddhantDeshmukh), [Instagram](https://www.instagram.com/astro_siddhant/) and [LinkedIn](https://www.linkedin.com/in/siddhant-deshmukh-b19162131/).
 
-Feel free to take a look at [my CV](cv_deshmukh_siddhant.pdf) as well.
+Feel free to take a look at [my CV](cv.pdf) as well.
 
 ## Research
 
