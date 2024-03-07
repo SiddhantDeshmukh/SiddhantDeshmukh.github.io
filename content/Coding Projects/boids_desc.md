@@ -20,7 +20,7 @@ kinds of herds.
 
 This is my take on it written in Rust using macroquad and egui.
 You can [[boids.html|view the HTML file]], get the compiled WASM binary [[boids.wasm|get the compiled WASM binary]], and
-[check out the repository](https://github.com/SiddhantDeshmukh/boids).
+[check out the repository](https://github.com/SiddhantDeshmukh/boids-rs).
 
 ## Demo
 
