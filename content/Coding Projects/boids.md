@@ -29,6 +29,6 @@ This demo runs best on desktops and gives a feel for the simulation along with a
 <div align="center">
     <iframe width="640px" min-width="640px" max-width="1920px"
             height="500px" min-height="480px" max-height="1080px"
-            src="boids.html">
+            src="boids_embed.html">
     </iframe>
 </div>
