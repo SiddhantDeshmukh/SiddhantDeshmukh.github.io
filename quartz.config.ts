@@ -16,7 +16,14 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: [
+      "private",
+      "templates",
+      ".obsidian",
+      "Short Stories/**",
+      "Fantasy Worlds/**",
+      "Tabletop Games/**",
+    ],
     defaultDateType: "created",
     generateSocialImages: true,
     theme: {

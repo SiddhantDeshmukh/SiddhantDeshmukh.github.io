@@ -1,9 +1,10 @@
 ---
 title: Hubris
 tags:
-    - creative-writing
-    - short-stories
+  - creative-writing
+  - short-stories
 ---
+
 ## Man’s hubris leads to an explosive clash with nature
 
 He looked back towards the barbed wire fence that marked the end of civilisation. A simple bribe was all it had cost Sherman Walsh to enter the most pristine landscape he’d ever seen. As a trophy hunter, he’d travelled the world, but not even the untouched beauty of the Serengeti could have prepared him for the vast richness that stretched out in front of him. Though there had been some talk of tourist travel here, for the moment it was completely void of unnatural life – perfect for a hunt.

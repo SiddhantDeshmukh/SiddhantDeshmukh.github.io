@@ -1,15 +1,15 @@
 ---
 title: AI Misinterpretation
 tags:
-    - creative-writing
-    - short-stories
+  - creative-writing
+  - short-stories
 ---
 
 ## Artificial intelligence misinterprets its instructions to produce unintended side effects
 
 “Check.”
 
-Lieutenant Jeffrey Carson gazed at the black and white scramble and tried to make sense of the board. His opponent smirked, the navy-blue coat of her New Western Front uniform giving nothing away. Sarah MacIntyre was a seasoned veteran of the Interzonal Chess Events (or ICE for short) and played the part. In just a few minutes, she had tangled Lt Carson’s black soldiers around the board, leaving just enough of a gap for her own pieces to gain entry to the keep.  Now the black pieces were comically strewn about, seemingly confused if their neighbours were friend or foe. Sarah liked to imagine the pieces with little swords and guns and other relics of their barbaric past.
+Lieutenant Jeffrey Carson gazed at the black and white scramble and tried to make sense of the board. His opponent smirked, the navy-blue coat of her New Western Front uniform giving nothing away. Sarah MacIntyre was a seasoned veteran of the Interzonal Chess Events (or ICE for short) and played the part. In just a few minutes, she had tangled Lt Carson’s black soldiers around the board, leaving just enough of a gap for her own pieces to gain entry to the keep. Now the black pieces were comically strewn about, seemingly confused if their neighbours were friend or foe. Sarah liked to imagine the pieces with little swords and guns and other relics of their barbaric past.
 
 Click. The magnetic snap of Lt Carson’s next move brought her attention back to the board. She frowned, cocked her head, and sailed her knight over the final defences.
 

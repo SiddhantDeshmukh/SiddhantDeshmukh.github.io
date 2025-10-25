@@ -14,11 +14,12 @@ tags:
 
 ![[sid.png|200]]
 
-I am a trained scientist with a PhD in Astrophysics specializing in computational methods. My main interests are **computational modelling**, **data science** and **machine learning**. I am currently looking to join a motivated team with a passion for data science, preferably in **climate-tech**, **aerospace** or the **energy** sector.
+Welcome to my site! I'm a quantitative researcher with a PhD in Astrophysics at [AIR Trading](https://www.airtrading.com/). I focus on implementing signal processing & machine learning methods in financial markets.
+My main interests are **computational modelling**, **data science** and **machine learning**.
 
 I have a few artistic hobbies, such as music (I sing and play a few instruments), and 3D art (mainly with Blender). Programming is one of my primary hobbies as well as being a cornerstone in my work. Currently I use Python and a bit of Rust, but I have previously used JavaScript, C, Julia and IDL as well.
 
-If you're interested in getting in touch, you can [send me an email](mailto:sadeshmukh.business@gmail.com) or find me on [Twitter](https://twitter.com/astro_siddhant), [GitHub](https://github.com/SiddhantDeshmukh), [Instagram](https://www.instagram.com/astro_siddhant/) and [LinkedIn](https://www.linkedin.com/in/siddhant-deshmukh-b19162131/).
+If you're interested in getting in touch, you can [send me an email](mailto:sadeshmukh.business@gmail.com) or find me on [GitHub](https://github.com/SiddhantDeshmukh), [Instagram](https://www.instagram.com/astro_siddhant/) and [LinkedIn](https://www.linkedin.com/in/siddhant-deshmukh-b19162131/).
 
 Feel free to take a look at [my CV](cv.pdf) as well.
 
@@ -50,13 +51,14 @@ I enjoy writing different kinds of computational simulations for fun & understan
 - [[particle_life|Particle Life]]
 - [[boids_desc|Boids]]
 
-## Creative Writing
-
-I'm a huge fan of creative writing, having run multiple tabletop roleplaying game (TTRPG) campaigns and developing my own systems. The newest one I'm developing is called [[fatecraft|Fatecraft]]. [[turns|Season 1]] is currently ongoing! There should be new updates every week. An older TTRPG system I wrote is [[shroud|Shroud]]. There's enough info there to pick up and play a game if you'd like, including a starter adventure and some characters.
-
-I also write short stories, if you're interested you can start with [[discovery|this one]].
-
-## 3D Art
-
-I like making physical renders and simulations with [Blender](https://www.blender.org), like this representation of our Sun with solar wind particles!
-![[sun_simple.png]]
+<!-- Not sure I want to include this anymore... -->
+<!-- ## Creative Writing -->
+<!---->
+<!-- I'm a huge fan of creative writing, having run multiple tabletop roleplaying game (TTRPG) campaigns and developing my own systems. The newest one I'm developing is called [[fatecraft|Fatecraft]]. [[turns|Season 1]] is currently ongoing! There should be new updates every week. An older TTRPG system I wrote is [[shroud|Shroud]]. There's enough info there to pick up and play a game if you'd like, including a starter adventure and some characters. -->
+<!---->
+<!-- I also write short stories, if you're interested you can start with [[discovery|this one]]. -->
+<!---->
+<!-- ## 3D Art -->
+<!---->
+<!-- I like making physical renders and simulations with [Blender](https://www.blender.org), like this representation of our Sun with solar wind particles! -->
+<!-- ![[sun_simple.png]] -->

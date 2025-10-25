@@ -1,8 +1,8 @@
 ---
 title: Dreams
 tags:
-    - creative-writing
-    - short-stories
+  - creative-writing
+  - short-stories
 ---
 
 ## “All our dreams can come true, if we have the courage to pursue them.” – Walt Disney
@@ -34,6 +34,6 @@ Ian concentrated hard as another bolt set a tree on fire and leapt into the air,
 
 “It might be your dream,” the Dreamer said, “but that don’t make it real.”
 
-***BANG!***
+**_BANG!_**
 
 Ian jumped awake – literally. He was covered in sweat, back in his room at the G3. He checked the time – 18:43 – and breathed a sigh of relief as he looked at the empty mattress behind him. After all these years, it seemed he could still have nightmares. At least now he knew the Sorcerer’s secret. He waited for his heartbeat to return to normal, before he closed his eyes and launched the simulation again. The job was still unfinished.

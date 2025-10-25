@@ -1,9 +1,10 @@
 ---
 title: Learning (Benjamin Franklin)
 tags:
-    - creative-writing
-    - short-stories
+  - creative-writing
+  - short-stories
 ---
+
 ## "Tell me and I forget. Teach me and I remember. Involve me and I learn." - Benjamin Franklin
 
 In the olden days, before the winds had torn the earth apart and the waves had forbidden us from the sea, the children would play in the fields. They sang the songs they learnt from their parents, songs admiring the power of the natural world, and other darker ones that told of the end of all life. Those songs they sang, but they did not understand. The meaning was lost on their young minds, too busy dashing through the meadows. It was inevitable that some would eat the poisonous flowers and would complain later of the stomach pain. But it was equally inevitable that another child would do the same the very next day, having already forgotten the past day’s incident.

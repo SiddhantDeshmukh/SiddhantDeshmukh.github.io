@@ -1,9 +1,10 @@
 ---
 title: Discovery
 tags:
-    - creative-writing
-    - short-stories
+  - creative-writing
+  - short-stories
 ---
+
 ## A new discovery breeds confusion in an age where all is certain
 
 They brought steel to Senutzka.
@@ -14,7 +15,7 @@ One day, the Acerai in the village were called to war. “To conquer the east!�
 
 It was Hessop who first braved the night in the Jungle. Defying the elders, he said the trees did not kill us. We thought him a fool in the beginning. When he returned the next morning, chased by the creature, we thought him insane. More so when he yelled to the butcher to feed the monster as he dashed through the village. The butcher hurled a slab of meat, and, fast as a swallow, the beast pounced. Its four hind legs hurled the rest of its armoured body forward, while both of its outstretched talons tore into the flesh. It devoured the flesh, the light glinting off its sharp teeth and glistening carapace. Cunning intelligence brewed in its yellow, catlike eyes. Sparks flew as it rubbed its talons together, and we heard the familiar sound of rolling thunder. From the Jungle came three more of the creatures, looking hungry. The butcher warily brought out more of the meat as the creatures waited patiently. They growled in appreciation, marking the start of our friendship.
 
-We named them “Steelspringers”. They became our family. We told them of our enemies.  And they gave us claws. The animals were more than beasts. They hunted the Jungle at night, but Hessop had convinced them to spare our kind. Now we share a bond stronger than blood.
+We named them “Steelspringers”. They became our family. We told them of our enemies. And they gave us claws. The animals were more than beasts. They hunted the Jungle at night, but Hessop had convinced them to spare our kind. Now we share a bond stronger than blood.
 
 Nobody disturbed Senutzka while we trained. Hessop took the shed claws of the Steelspringers and worked with them in his forge. Even once discarded, the claws were harder than any metal we had seen and glowed pale blue in the moonlight. For weeks we heard Hessop’s hammering, until one night we saw blue lightning streak from his window, disappearing into the jungle. He emerged wearing a set of new claws and demonstrated his invention. Even the Steelspringers looked impressed and joined Hessop in celebration. A thunderstorm of our creation rolled across the land that night. Over the next four weeks, Hessop and the Steelspringers taught us to use the claws. Over the next four weeks, we became warriors.
 
